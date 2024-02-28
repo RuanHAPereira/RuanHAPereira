@@ -12,4 +12,4 @@
 
 Formado em Sistemas para Internet.
 
-Atualmente sou Desenvolvedor Trainee na Totvs Ip, unidade de Campinas.
+Atualmente sou Técnico Desenvolvedor de Software na Totvs Ip, unidade de Campinas.
